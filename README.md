@@ -17,11 +17,6 @@
 Connected to Node.js + Express + MongoDB API  
 (see backend repo)
 
-## Setup
-```bash
-npm install
-npm run dev
-
 ## API Integration
 - Frontend integrates with backend using Axios
 - JWT authentication is implemented
@@ -31,3 +26,9 @@ npm run dev
 - Charts currently use sample data
 - Authentication UI can be added as a next step
 - Focus was on architecture, integration, and correctness
+
+## Setup
+```bash
+npm install
+npm run dev
+
